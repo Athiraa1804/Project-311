@@ -28,7 +28,7 @@ main {
   margin: 10px;
   padding: 10px 20px;
   color: white;
-  background-color: #4CAF50;
+  background-color: #985F52;
   text-decoration: none;
   border-radius: 5px;
 }
@@ -59,7 +59,7 @@ form input, form textarea, form button {
 }
 
 form button {
-  background-color: #4CAF50;
+  background-color: #985F52;
   color: white;
   border: none;
   cursor: pointer;
