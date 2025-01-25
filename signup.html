@@ -1,0 +1,107 @@
+<!DOCTYPE.html>
+<html>
+    <head>
+        <title>Forms</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+         <link rel="stylesheet" href="styles.css">
+    </head>
+    <body "text-align=centre">
+    <motion.div 
+      className="flex items-center justify-center min-h-screen bg-gray-100" 
+      initial={{ opacity: 0 }} 
+      animate={{ opacity: 1 }}
+      exit={{ opacity: 0 }}
+    >
+      <Card className="w-full max-w-md p-6 rounded-2xl shadow-lg bg-white">
+        <CardContent>
+          <h2 className="text-2xl font-bold text-gray-800 mb-4 text-center">LOG IN</h2><br><br>
+          <form className="space-y-4">
+            <div>
+              <Label htmlFor="name" className="text-sm font-medium text-gray-700",>
+                Name
+              </Label>
+              <Input
+                id="name"
+                type="text"
+                placeholder="Enter your name"
+                className="mt-1 w-full border-gray-300 rounded-md focus:ring-indigo-500 focus:border-indigo-500"
+              /><br><br>
+            </div>
+
+            <div>
+              <Label htmlFor="phone" className="text-sm font-medium text-gray-700">
+                Phone Number
+              </Label>
+              <Input
+                id="phone"
+                type="tel"
+                placeholder="Enter your phone number"
+                className="mt-1 w-full border-gray-300 rounded-md focus:ring-indigo-500 focus:border-indigo-500"
+              /><br><br>
+            </div>
+
+            <div>
+              <Label htmlFor="email" className="text-sm font-medium text-gray-700">
+                Email ID
+              </Label>
+              <Input
+                id="email"
+                type="email"
+                placeholder="Enter your email"
+                className="mt-1 w-full border-gray-300 rounded-md focus:ring-indigo-500 focus:border-indigo-500"
+              /><br><br>
+            </div>
+
+            <div>
+              <Label htmlFor="age" className="text-sm font-medium text-gray-700">
+                Age
+              </Label>
+              <Input
+                id="age"
+                type="number"
+                placeholder="Enter your age"
+                className="mt-1 w-full border-gray-300 rounded-md focus:ring-indigo-500 focus:border-indigo-500"
+              /><br><br>
+            </div>
+
+            <div>
+              <Label htmlFor="qualification" className="text-sm font-medium text-gray-700">
+                Qualification
+              </Label>
+              <Input
+                id="qualification"
+                type="text"
+                placeholder="Enter your qualification"
+                className="mt-1 w-full border-gray-300 rounded-md focus:ring-indigo-500 focus:border-indigo-500"
+              /><br><br>
+            </div>
+
+            <div>
+              <Label htmlFor="languages" className="text-sm font-medium text-gray-700">
+                Languages Known
+              </Label>
+              <Input
+                id="languages"
+                type="text"
+                placeholder="Enter languages you know"
+                className="mt-1 w-full border-gray-300 rounded-md focus:ring-indigo-500 focus:border-indigo-500"
+              /><br><br>
+            </div>
+
+            <Button type="submit" className="w-full bg-indigo-600 text-white py-2 px-4 rounded-md hover:bg-indigo-700">
+              Log In
+            </Button>
+          </form>
+          <p className="text-center text-sm text-gray-500 mt-4">
+            Don&apos;t have an account? <a href="#" className="text-indigo-600 hover:underline">Sign Up</a>
+          </p>
+        </CardContent>
+      </Card>
+    </motion.div>
+  );
+};
+</body>
+</html>
+
+
