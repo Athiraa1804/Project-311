@@ -26,16 +26,6 @@ For Software:
 HTML
 CSS
 
-
-Implementation
-For Software:
-
-Installation
-[commands]
-
-Run
-[commands]
-
 Project Documentation
 For Software:
 
@@ -49,11 +39,12 @@ https://drive.google.com/file/d/1cT0r3ypxSGBoy-YLH7eNKHQcL9-Pet7v/view?usp=drive
 
 Diagrams
 https://drive.google.com/file/d/1cmsqryr2_eyvVYFALh5SPI8EaJpeIN4U/view?usp=drivesdk
+Explanation :https://drive.google.com/file/d/1czPInftWgTu1EpYjgvxSOZuLIawb4CkP/view?usp=drivesdk
 
 
 Project Demo
 Video
-[<video controls src="proj vdo.mp4" title="Title"></video>] Explain what the video demonstrates
+[https://drive.google.com/file/d/1dPcUMOpdM6bwxuA3yzn0WeJw2vN61irb/view?usp=sharing] Explain what the video demonstrates
 
 
 
