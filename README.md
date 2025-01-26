@@ -40,40 +40,20 @@ Project Documentation
 For Software:
 
 Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name) Add caption explaining what this shows
-
-![Screenshot2](Add screenshot 2 here with proper name) Add caption explaining what this shows
-
-![Screenshot3](Add screenshot 3 here with proper name) Add caption explaining what this shows
+https://drive.google.com/file/d/1cHWk5ZNf-ROMUdhiDqCzji_J9QSiqeSn/view?usp=drivesdk(FIRST PAGE)
+https://drive.google.com/file/d/1clo7DYy3Jpm38P7-BI4-J3BD_OiUZW01/view?usp=drivesdk(SECOND PAGE)
+https://drive.google.com/file/d/1cOJLSo5U38iaWb0DSt0mc3JMEVL8omRj/view?usp=drivesdk(THIRD PAGE)
+https://drive.google.com/file/d/1cekafVQBxDYYFK2tQUZf5rEYDc0WRH29/view?usp=drivesdk(FOURTH PAGE)
+https://drive.google.com/file/d/1c_AwpJUJbWsA_yyXYj_r7zIGXaV480V0/view?usp=drivesdk(FIFTH PAGE)
+https://drive.google.com/file/d/1cT0r3ypxSGBoy-YLH7eNKHQcL9-Pet7v/view?usp=drivesdk(SIXTH PAGE)
 
 Diagrams
-![Workflow](Add your workflow/architecture diagram here) Add caption explaining your workflow
+https://drive.google.com/file/d/1cmsqryr2_eyvVYFALh5SPI8EaJpeIN4U/view?usp=drivesdk
 
-For Hardware:
-
-Schematic & Circuit
-![Circuit](Add your circuit diagram here) Add caption explaining connections
-
-[Schematic](Add your schematic diagram here) Add caption explaining the schematic
-
-Build Photos
-![Team](Add photo of your team here)
-
-![Components](Add photo of your components here) List out all components shown
-
-![Build](Add photos of build process here) Explain the build steps
-
-![Final](Add photo of final product here) Explain the final build
 
 Project Demo
 Video
-[Add your demo video link here] Explain what the video demonstrates
+[<video controls src="proj vdo.mp4" title="Title"></video>] Explain what the video demonstrates
 
-Additional Demos
-[Add any extra demo materials/links]
 
-Team Contributions
-[Name 1]: [Specific contributions]
-[Name 2]: [Specific contributions]
-[Name 3]: [Specific contributions]
-Made with ❤ at TinkerHub
+
